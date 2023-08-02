@@ -6,12 +6,11 @@ description: This is my simple portfolio
 
 # User settings
 username: Sergio Lattke
-user_description: 
+user_description: DevOps junior fond of technologies, I have knowledge in Python, JavaScript, puppet and Linux. I also have basic knowledge in AWS and Oracle cloud. I am a person who adapts easily, and I have no problem working in a team, I love to learn new things.
 user_title: DevOps Engineer jr
 email: sergiolattk@outlook.com
-twitter_username: lorem_ipsum
 github_username:  bacuchito
-gplus_username:  lorem_ipsum
+
 
 # Google-analytics
 google-analytics:
